@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/renderer_category">
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/rendererListArray"
+            android:entryValues="@array/rendererListValues"
+            android:key="org.rajawali3d.examples.Preferences.wallpaper_renderer"
+            android:summary="@string/renderer_picker_summary"
+            android:title="@string/renderer_picker_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

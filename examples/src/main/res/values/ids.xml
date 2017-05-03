@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="md2_fragment_button_salute" type="id" />
+    <item name="md2_fragment_button_death" type="id" />
+    <item name="md2_fragment_button_walk" type="id" />
+    <item name="md2_fragment_button_wave" type="id" />
+    <item name="md2_fragment_button_loop_all" type="id" />
+    <item name="view_to_texture_frame" type="id" />
+
+</resources>

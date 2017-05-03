@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:author="@string/lwp_author"
+    android:description="@string/lwp_desc"
+    android:settingsActivity="org.rajawali3d.examples.wallpaper.WallpaperPreferenceActivity"
+    android:thumbnail="@drawable/ic_launcher" />
