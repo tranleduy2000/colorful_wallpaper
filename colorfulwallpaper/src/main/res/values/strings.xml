@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- App Base -->
-    <!-- Menu -->
-    <!-- Curves Fragment -->
-    <!-- Spirals Fragment -->
-    <!-- FBX Fragment -->
-    <!-- MD2 Fragment -->
-    <!-- Object Picking Fragment -->
-    <!-- Touch Ripples Fragment -->
-    <!-- UIElements Fragment -->
-    <!-- Uniform Distribution Fragment -->
-    <!-- Skeletal Animation Blending Fragment -->
-    <!-- Touch and Drag Fragment -->
-    <!-- Meet The Team Fragment -->
-    <!-- Community Fragment -->
-    <!-- GCode Fragment -->
-    <!-- ExceptionDialog -->
-    <string name="exception_dialog_title">Error</string>
-    <string name="exception_dialog_message_unknown">Internal exception occurred.</string>
-    <string name="exception_dialog_message_no_browser">No web browser is installed. Unable to open link.</string>
-    <!-- ETC2 -->
-
-    <!-- Wallpaper -->
-    <!-- Name in Live Wallpaper Picker list -->
-
-    <!-- Description in Live Wallpaper Picker list -->
-
-    <!-- Author -->
-
-    <!-- Quick little message displayed when the Live Wallpaper Picker is opened -->
-    <!-- The message text is the prefix, lwp_name, and suffix concatenated -->
+    <string name="picker_toast_prefix">Choose \"</string>
+    <string name="picker_toast_suffix">\" from the list of live wallpapers</string>
 
     <!-- Settings -->
+    <string name="renderer_category">Wallpaper Renderer</string>
+    <string name="renderer_picker_title">Renderer</string>
+    <string name="renderer_picker_summary">Choose the renderer class to use for the wallpaper demo.</string>
     <string name="app_name">Colorful Wallpaper</string>
-    <string name="title_activity_main">MainActivity</string>
+
+    <string name="key_wall" translatable="false">key_position_wall</string>
+    <string name="key_draw_mode" translatable="false">key_draw_mode</string>
 
 </resources>

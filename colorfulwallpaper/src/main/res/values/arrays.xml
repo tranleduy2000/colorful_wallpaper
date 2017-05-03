@@ -1,2 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="rendererListArray">
+        <item>Vertex Buffer Update</item>
+        <item>Colorful</item>
+        <item>Canvas Text</item>
+    </string-array>
+
+
+    <string-array name="draw_mode">
+        <item>Lines</item>
+        <item>Line strip</item>
+        <item>Line loop</item>
+        <item>Triangles</item>
+        <item>Triangle strip</item>
+        <item>Point</item>
+    </string-array>
+    <integer-array name="draw_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+
+    <string-array name="rendererListValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

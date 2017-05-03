@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/colorfulwallpaper" />
+            <option value="$PROJECT_DIR$/rajawali" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
