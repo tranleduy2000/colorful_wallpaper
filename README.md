@@ -6,4 +6,3 @@ https://github.com/Rajawali/Rajawali
 
 <img  src="https://github.com/tranleduy2000/colorful_wallpaper/art/img1.png"/>
 <img  src="https://github.com/tranleduy2000/colorful_wallpaper/art/img2.png"/>
-
